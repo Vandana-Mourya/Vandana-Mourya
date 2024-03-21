@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here, you'll find a snapshot of my skills, interes
 
 ## Skills
 
-My skills include Java, Data Structures and Algorithms (DSA), Basic Android Development, Basic SQL, Basics of Version Control Systems (Git and GitHub), Leadership, and Communication Skills. I'm a firm believer in continuous learning and always look forward to exploring new technologies.
+My skills include Java, HTML, CSS, Javascript, Data Structures and Algorithms (DSA), Android Development, SQL, Version Control Systems (Git and GitHub), Leadership, and Communication Skills. I'm a firm believer in continuous learning and always look forward to exploring new technologies.
 
 ## Interests
 🌟 Coding | 📚 Exploring new technologies | 🧠 Sharing knowledge
